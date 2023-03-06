@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 <link rel="stylesheet" href="style.css">
 </head>
-<form method="POST" name="VaidrollTeam">
+<form method="POST" name="AlejandroVillegas">
 <table border="1">
 <tr><th colspan="2">Datos del cliente</th></tr>
 <tr><td>Nombre:</td><td><input type="text" name="txtnombre"></td></tr>
