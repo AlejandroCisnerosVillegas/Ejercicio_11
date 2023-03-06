@@ -139,7 +139,6 @@ if(isset($_POST['grabarfiesta'])){
     }
 }
 
-/*VaidrollTeam*/
 if(isset($_POST['distritodelevento1'])){
     $selectdistrito = $_POST['distritodelevento1'];
     switch ($selectdistrito) {
