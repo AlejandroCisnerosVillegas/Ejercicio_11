@@ -1,3 +1,3 @@
-# Ejercicio 11 
-## _Formulario de Servicios con Reporte en PHP y HTML_
-Este formulario sirve para realizar un reporte y cotizar el precio sobre un servicio que se ofrece. El formulario solicita los datos del cliente como el nombre, fecha del evento, domicilio y delegación, en la parte de servicio registra la hora, la cantidad de payasos, muñecos, bailarinas, magos, si es necesario decorar el ambiente, grabar la fiesta y la delegación del evento. Con el botón cotizar mostrará el precio total que deberá pagar el cliente.
+# Sistema de Cotización para Eventos
+## _Área: Actividades_
+Esta actividad presenta un sistema de cotización de eventos, diseñado para recopilar datos del cliente y calcular el costo total de un evento basado en diversos servicios seleccionados. La aplicación utiliza HTML y CSS para la estructura y el diseño, y PHP para el procesamiento de datos. Este proyecto muestra habilidades en la creación de formularios web, interacción con el usuario y cálculos dinámicos del lado del servidor.
