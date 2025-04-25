@@ -16,7 +16,7 @@ El sistema permite al usuario:
 
 Esta actividad destaca la capacidad de crear aplicaciones web interactivas y útiles para la gestión de eventos, demostrando competencia en diseño front-end y procesamiento de datos en el back-end.
 
-**Consulta la versión preliminar de la actividad aquí:** [https://ejercicio_11.com](https://alejandrovillegas.net/projects/exercise-11/index.php)
+**Consulta la versión preliminar de la actividad aquí:** [https://ejercicio_11.com](https://www.alejandrovillegas.dev/projects/exercise-11/index.php)
 
 # 📌 Información de la Actividad
 
@@ -28,7 +28,7 @@ Esta actividad ha sido desarrollado como parte del portafolio de soluciones tecn
 
 - **Fecha de Desarrollo**: 14 de noviembre de 2018
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 ## 🔧 Guía de Instalación y Configuración de la Actividad
 
